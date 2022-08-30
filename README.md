@@ -1,6 +1,6 @@
 Hi This is Ravi K R, full stack web developer.
 
-# Project Name : 12. Business-landing-page ![](https://img.shields.io/badge/Project-11-green)
+# Project Name : 12. Business-landing-page ![](https://img.shields.io/badge/Project-12-green)
 
 This is a Business landing page demo, I have built it from scratch using HTML and CSS. its great experince i learnt Layout making through Flexbox. specifically this project helped me to expore new things like Box Shadow, Hover Effect, and cards gradient images, transform property etc. 
 
@@ -16,7 +16,7 @@ This is a Business landing page demo, I have built it from scratch using HTML an
 
 ### Here's the Live Deployed Website:
 
-[Live Link !](https)
+[Live Link !](https://inquisitive-nougat-fe6951.netlify.app/)
 
 ![Web Site Image](./Images/12.png)
 
